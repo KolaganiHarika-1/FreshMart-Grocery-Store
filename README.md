@@ -91,4 +91,4 @@ This is a frontend demonstration project. Product data, prices, delivery locatio
 
 ---
 
-Built as a learning and portfolio project. Customize the brand, products and content before publishing.
+Built as a learning and portfolio project. Customize the brand, products and content before publihing.
